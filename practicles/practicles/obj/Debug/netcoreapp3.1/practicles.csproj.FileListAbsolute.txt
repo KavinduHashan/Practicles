@@ -1,0 +1,13 @@
+E:\code\C# (visual studio)\practicles\practicles\bin\Debug\netcoreapp3.1\practicles.exe
+E:\code\C# (visual studio)\practicles\practicles\bin\Debug\netcoreapp3.1\practicles.deps.json
+E:\code\C# (visual studio)\practicles\practicles\bin\Debug\netcoreapp3.1\practicles.runtimeconfig.json
+E:\code\C# (visual studio)\practicles\practicles\bin\Debug\netcoreapp3.1\practicles.runtimeconfig.dev.json
+E:\code\C# (visual studio)\practicles\practicles\bin\Debug\netcoreapp3.1\practicles.dll
+E:\code\C# (visual studio)\practicles\practicles\bin\Debug\netcoreapp3.1\practicles.pdb
+E:\code\C# (visual studio)\practicles\practicles\obj\Debug\netcoreapp3.1\practicles.csproj.AssemblyReference.cache
+E:\code\C# (visual studio)\practicles\practicles\obj\Debug\netcoreapp3.1\practicles.AssemblyInfoInputs.cache
+E:\code\C# (visual studio)\practicles\practicles\obj\Debug\netcoreapp3.1\practicles.AssemblyInfo.cs
+E:\code\C# (visual studio)\practicles\practicles\obj\Debug\netcoreapp3.1\practicles.csproj.CoreCompileInputs.cache
+E:\code\C# (visual studio)\practicles\practicles\obj\Debug\netcoreapp3.1\practicles.dll
+E:\code\C# (visual studio)\practicles\practicles\obj\Debug\netcoreapp3.1\practicles.pdb
+E:\code\C# (visual studio)\practicles\practicles\obj\Debug\netcoreapp3.1\practicles.genruntimeconfig.cache
